@@ -167,3 +167,18 @@ footer {
 footer h1 {
     color: rgb(255, 71, 71);
 }
+
+.found2 {
+    border: 1px solid rgb(24, 22, 22);
+    border-radius: 5px;
+}
+
+.found3 {
+    border: 1px solid rgb(24, 22, 22);
+    border-radius: 5px;
+}
+
+.found1 {
+    border: 1px solid rgb(24, 22, 22);
+    border-radius: 5px;
+}
